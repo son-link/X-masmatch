@@ -24,7 +24,7 @@ There are 12 characters, and they come out randomly:
 * Snowman
 * Tió de Nadal (Traditional Christmas character from Catalonia)
 
-Some of character sprites (Jesus, Dromedary and Reno), the snowflakes are taken from 3 asset packs, the rest are created by me. Both sprites, including the rest of the sprites created for the game, will also be released under the same license. Both asset packs are from [Public Domain or CC0](http://creativecommons.org/publicdomain/zero/1.0/)
+Some characters sprites (Jesus, Dromedary and Reno), the snowflakes are taken from 3 asset packs, the rest are created by me. Both sprites, including the rest of the sprites created for the game, will also be released under the same license. Both asset packs are from [Public Domain or CC0](http://creativecommons.org/publicdomain/zero/1.0/)
 
 * [Tiny Dungeon](https://opengameart.org/content/tiny-dungeon) by [Kenney](https://kenney.nl/)
 * [Tiny Creatures](https://opengameart.org/content/tiny-creatures) by [Clint Bellanger](ttps://opengameart.org/users/clint-bellanger) and which is an expansion pack of the previous one.
@@ -32,7 +32,7 @@ Some of character sprites (Jesus, Dromedary and Reno), the snowflakes are taken 
 
 The font used is [Retro Pixel Cute Mono](https://github.com/TakWolf/retro-pixel-font) and is licensed under [MIT](https://en.wikipedia.org/wiki/MIT_License) and [OFL-1.1](https://openfontlicense.org/).
 
-Available for Linux (x86_64 and ARM 64 bits), Windows (only x86_64) or vX-masmatchia web browser.
+Available for Linux (x86_64 and ARM 64 bits), Windows (only x86_64) or web browser.
 
 ### How to play:
 
@@ -40,7 +40,7 @@ Download the package for your operating system and architecture and extract the 
 
 Click each card to turn it over. If when you reveal the second card both match, you have discovered a pair and 1 second will be added to your time. If you fail, 1 second is subtracted. If time runs out, the game is over.
 
-To pause the game with the mause, click on the icon in the top right corner.
+To pause the game with the mouse, click on the icon in the top right corner.
 
 |Device     |Key/Button |Action           |
 |-----------|-----------|-----------------|
@@ -62,30 +62,29 @@ To pause the game with the mause, click on the icon in the top right corner.
 ## Español
 
 X-masmatch es un pequeño juego de buscar parejas de cartas con temática navideña.
-
-El código de este juego esta bajo licencia GNU/GPLv3 o nueva y los gráficos son de Dominio Publico o CC0 y podéis obtener el código en [este repositorio](https://github.com/son-link/X-masmatch)
+El código de este juego está bajo licencia GNU/GPLv3 o nueva y los gráficos son de Dominio Público y CC0 y podéis obtener el código en [este repositorio](https://github.com/son-link/X-masmatch)
 
 Hay 12 personajes, y salen de manera aleatoria:
-* Balthasar (uno de los tres Reyes Magos)
 * Árbol de Navidad
+* Baltasar (uno de los tres Reyes Magos)
 * Dromedario
-* Uvas
-* Jesus
+* Jesús
+* Muñeco de nieve
 * Olentzero (Personaje tradicional navideño del País Vasco)
 * Regalo
 * Reloj de la Puerta del Sol (Madrid, España)
 * Reno
 * Santa Claus
-* Muñeco de nieve
 * Tió de Nadal (Personaje tradicional navideño de Cataluña)
+* Uvas
 
-Los sprites de varios de los personajes (Jesus, Dromedario y Reno), asi como los copos de nieve se han sacado de 3 packs de assets, el resto son de creación propia. Ambos sprites, incluidos el resto de sprites creados para el juego, también se liberarán bajo la misma licencia. Ambos packs de assets son de [Dominio Público o CC0](http://creativecommons.org/publicdomain/zero/1.0/)
+Los sprites de varios de los personajes (Jesús, Dromedario y Reno), así como los copos de nieve, se han sacado de 3 packs de assets, el resto son de creación propia. Todos los sprites, incluidos los creados para el juego, están bajo la licencia [Dominio Público o CC0](http://creativecommons.org/publicdomain/zero/1.0/)
 
 * [Tiny Dungeon](https://opengameart.org/content/tiny-dungeon) por [Kenney](https://kenney.nl/)
 * [Tiny Creatures](https://opengameart.org/content/tiny-creatures) por [Clint Bellanger](https://opengameart.org/users/clint-bellanger) y que es un paquete de expansión del anterior.
 * [Pixel Art Snowflakes](https://opengameart.org/content/pixel-art-snowflakes) por [alxl](https://opengameart.org/users/alxl).
 
-La fuente usada es [Retro Pixel Cute Mono](https://github.com/TakWolf/retro-pixel-font) y esta bajo las licencias [MIT](https://en.wikipedia.org/wiki/MIT_License) y [OFL-1.1](https://openfontlicense.org/)
+La fuente usada es [Retro Pixel Cute Mono](https://github.com/TakWolf/retro-pixel-font) y está bajo las licencias [MIT](https://en.wikipedia.org/wiki/MIT_License) y [OFL-1.1](https://openfontlicense.org/)
 
 Disponible para Linux (x86_64 y ARM 64 bits), Windows (solo x86_64) o a través del navegador web.
 
